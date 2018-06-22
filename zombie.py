@@ -6,7 +6,7 @@ from types import MethodType
 WIDTH = 31
 HEIGHT = 19
 TITLE = 'Zombie Madness'
-COLLISIONS = RECT
+PIXEL_COLLISIONS = False
 
 # Statistics Constants
 LEVEL_COMPLETE = 'Levels Completed'
